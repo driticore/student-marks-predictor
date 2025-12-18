@@ -21,6 +21,8 @@ Linear Regression
 
 ## Result
 The model successfully predicts student marks with a clear linear trend.
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/631999b4-b5d1-4dfe-87b2-e9b682afcfa5" />
+
 
 # Note 
 - ChatGPT was used to help me understand this project (Which is a Supervised Regression Problem)
